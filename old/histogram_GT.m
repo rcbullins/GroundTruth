@@ -1,4 +1,3 @@
-%testing 123
 function histogram_GT (recordingIdx, excelDoc, BrainRegion)
  
  icountRec = 1;
